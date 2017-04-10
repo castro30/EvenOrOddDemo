@@ -1,0 +1,6 @@
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\bin\Debug\EvenOrOddDemo.exe.config
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\bin\Debug\EvenOrOddDemo.exe
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\bin\Debug\EvenOrOddDemo.pdb
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\obj\Debug\EvenOrOddDemo.csprojResolveAssemblyReference.cache
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\obj\Debug\EvenOrOddDemo.exe
+C:\Temp\EvenOrOddDemo\EvenOrOddDemo\obj\Debug\EvenOrOddDemo.pdb
